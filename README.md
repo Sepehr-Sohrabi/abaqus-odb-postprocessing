@@ -219,5 +219,4 @@ Sepehr Sohrabi
 
 Abaqus Python Post-processing Utility
 
-Enjoy!  
-```
+Enjoy!
